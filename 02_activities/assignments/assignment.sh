@@ -58,3 +58,5 @@ find data/processed -type f > data/inventory.txt
 ###########################################
 
 echo "Project setup is complete!"
+
+## Modifying the assignment.sh to execute a new commit and push the changes to Github correctly
